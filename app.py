@@ -565,7 +565,7 @@ def get_bot_response():
                 session["symv"] = symts
                 s = ""
                 print("HANAAA")
-                return get_bot_response()
+                return "Diabetes"
         else:
             PD = possible_diseases(session["all"])
             diseases = session["diseases"]
