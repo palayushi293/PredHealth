@@ -19,4 +19,7 @@ python app.py
 
 
 Medical DataSet available !!
+
+And all the documents are present in document folder
+
 ---- 
