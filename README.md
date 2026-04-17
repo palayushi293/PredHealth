@@ -20,6 +20,6 @@ python app.py
 
 Medical DataSet available !!
 
-## And all the documents are present in document folder
+## And all the documents are present in documents_paper folder
 
 ---- 
